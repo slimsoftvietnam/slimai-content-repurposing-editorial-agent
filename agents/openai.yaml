@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-channel Editorial Agent"
+  short_description: "Create and plan on-brand content; publish in browser"
+  default_prompt: "Use $content-repurposing-editorial-agent to turn this source into an SEO blog, Facebook and LinkedIn posts, and a TikTok script; create useful visuals, build a minimal 7-day calendar with complete copy, and track review and approval status. If I request publishing, use the platform's browser interface and never publish without my explicit approval for the specific post, destination, and action."
